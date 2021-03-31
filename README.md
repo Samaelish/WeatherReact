@@ -2,5 +2,5 @@
 ## Погода онлайн на React
 ### Веб приложение с погодой
 Вывод данных о погоде 
-![Скриншот страницы](https://i.imgur.com/FQhDLiV.png)
+![Скриншот страницы](https://i.imgur.com/ZCmqRyh.png)
 # [Смотреть демо на Netlify](https://wonderful-haibt-1e0f37.netlify.app/)
