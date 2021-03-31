@@ -45,7 +45,7 @@ const App = () => {
           <input 
           type="text"
           className='search-bar'
-          placeholder='Поиск...'
+          placeholder='Введите название города'
           onChange={e => setQuery(e.target.value)}
           value={query}
           onKeyPress={search}
