@@ -36,7 +36,7 @@ const App = () => {
   return (
     <div className={
       (typeof weather.main != 'undefined') 
-      ? ((weather.main.temp > 16) 
+      ? ((weather.main.temp > 5) 
         ? 'app warm' 
         : 'app') 
       : 'app'}>
