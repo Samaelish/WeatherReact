@@ -1,4 +1,5 @@
 import React, {useState} from 'react'
+import './index.css';
 
 const api = {
   key: 'af87c4c2f1592abd2c176ab434370655',
